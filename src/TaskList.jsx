@@ -74,7 +74,7 @@ const TaskList = ({ tasks, filter,dispatch, selectedCategory }) => {
         Uncomplete All
       </button>
       <ul className="list-group">
-        {tasks.map((task) => (
+        {filteredTasks.map((task) => (
           <li key={task.id} className={`list-group-item ${task.completed ? 'completed' : ''}`}>
             <span>{task.text}</span>
             <p>Created: {new Date(task.createdAt).toLocaleString()} </p>
