@@ -1,5 +1,8 @@
 # Technigo React Starter App
 
+![Application Screenshot 1](src/assets/1.png)
+
+![Application Screenshot 2](src/assets/2.png)
 ## Usage
 
 1. Fork and clone this repository to your computer
@@ -18,4 +21,4 @@ Describe how you approached to problem, and what tools and techniques you used t
 
 ## View it live
 
-link: technigo-project-redux.netlify.app
+link: https://technigo-project-redux.netlify.app/
