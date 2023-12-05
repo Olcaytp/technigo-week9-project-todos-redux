@@ -1,4 +1,4 @@
-# Technigo React Starter App
+# Technigo React Redux Todos App
 
 ![Application Screenshot 1](src/assets/1.png)
 
